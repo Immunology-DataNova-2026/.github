@@ -1,3 +1,5 @@
+# .github
+
 # Immunology-DataNova-2026
 
 three projects testing whether ml can detect a health condition from something cheap to collect: a voice recording, a blood gene expression profile, an antibody sequence.
